@@ -57,7 +57,7 @@ Offers hands-on experience with modules like nltk, psutil, pywhatkit, and more.
 🔧 SETUP INSTRUCTIONS
 
 1. Clone the Repository:
-   > git clone https://github.com/hemanthkumbha-03/personal-assistant.git
+   > git clone https://github.com/hemathkumbha-03/personal-assistant.git
    > cd personal-assistant
 
 2. Create a Virtual Environment (optional):
