@@ -1,0 +1,12 @@
+gtts
+speechrecognition
+wikipedia
+pyjokes
+psutil
+pywhatkit
+youtube-search-python
+streamlit
+pyaudio
+nltk
+PyDictionary
+requests
